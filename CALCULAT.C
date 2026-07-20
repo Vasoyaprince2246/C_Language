@@ -84,16 +84,16 @@ void add(int a, int b)
 void sub(int a, int b)
 {
 	printf("subtraction is a %d and %d of: %d", a, b, a - b);
-};
+}
 void mul(int a, int b)
 {
 	printf("multiplication is a %d and %d of: %d", a, b, a * b);
-};
+}
 void div(int a, int b)
 {
 	printf("division is a %d and %d of: %f", a, b, (float)a / b);
-};
+}
 void mod(int a, int b)
 {
 	printf("modulo is a %d and %d of: %d", a, b, a % b);
-};
+}
