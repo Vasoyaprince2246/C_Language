@@ -91,7 +91,7 @@ void mul(int a, int b)
 };
 void div(int a, int b)
 {
-	printf("division is a %d and %d of: %d", a, b, a / b);
+	printf("division is a %d and %d of: %f", a, b, (float)a / b);
 };
 void mod(int a, int b)
 {
